@@ -44,7 +44,7 @@ npm install          # Instala as dependências do cliente
 cd Desafio-2-AI-services/Loja-de-livros/server
 ```
 ```
-npm start
+node index.js
 ```
 ### 💻 Iniciar o Cliente (Frontend)
 ```
